@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009772563460",
+    "firebase_url": "https://airinfo-85549.firebaseio.com",
+    "project_id": "airinfo-85549",
+    "storage_bucket": "airinfo-85549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009772563460:android:f5941dae460910550eb951",
+        "android_client_info": {
+          "package_name": "com.example.airinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009772563460-4i08gni7qscne17ip74h8ahmmfo87o9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogDbSWUzsAUhIyv5Ilfk_nQiGQ9fOODk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009772563460-4i08gni7qscne17ip74h8ahmmfo87o9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
